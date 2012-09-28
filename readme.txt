@@ -22,6 +22,8 @@ Beginning in 3.5, XML-RPC is enabled by default. Additionally, the option to dis
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. XML-RPC is now disabled!
 
+To re-enable XML-RPC, just deactivate the plugin through the 'Plugins' menu.
+
 == Frequently Asked Questions ==
 
 = Is there an admin interface for this plugin? =
