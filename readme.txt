@@ -14,8 +14,7 @@ This plugin disables XML-RPC API in WordPress 3.5+, which is enabled by default.
 
 Pretty simply, this plugin disables the XML-RPC API on a WordPress site running 3.5 or above.
 
-Beginning in 3.5, XML-RPC is enabled by default. For various reasons, site owners may wish to disable this functionality. 
-Additionally, the option to disable/enable XML-RPC was removed. This plugin provides an easy way to disable it.
+Beginning in 3.5, XML-RPC is enabled by default. Additionally, the option to disable/enable XML-RPC was removed. For various reasons, site owners may wish to disable this functionality. This plugin provides an easy way to do so.
 
 == Installation ==
 
