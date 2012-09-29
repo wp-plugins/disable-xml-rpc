@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: philerb
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AGZPVTSNVCT3U
+Donate link: http://www.philerb.com/wp-plugins/appreciation/
 Tags: xmlrpc
 Requires at least: 3.5
 Tested up to: 3.5
