@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: philerb
+Contributors: solvethenet, philerb
 Donate link: http://www.philerb.com/wp-plugins/appreciation/
 Tags: xmlrpc
 Requires at least: 3.5
-Tested up to: 3.6
+Tested up to: 3.8
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,10 @@ To re-enable XML-RPC, just deactivate the plugin through the 'Plugins' menu.
 = Is there an admin interface for this plugin? =
 
 No. This plugin is as simple as XML-RPC is off (plugin activated) or XML-RPC is on (plugin is deactivated).
+
+= How do I know if the plugin is working? =
+
+There are two easy methods for checking if XML-RPC is off. First, try using an XML-RPC client, like the official WordPress mobile apps. Or you can try the XML-RPC Validator, written by Danilo Ercoli of the Automattic Mobile Team - the tool is available at [http://xmlrpc.eritreo.it/](http://xmlrpc.eritreo.it/) with a blog post about it at [http://daniloercoli.com/2012/05/15/wordpress-xml-rpc-endpoint-validator/](http://daniloercoli.com/2012/05/15/wordpress-xml-rpc-endpoint-validator/).
 
 == Screenshots ==
 
